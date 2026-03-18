@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "MAD HEAD LOVE",
   "base_artist": "米津玄師",
-  "createdAt": "2026-01-02T10:27:16.537115Z",
+  "createdAt": "2026-03-18T06:00:05.598172Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -107,6 +107,15 @@
       "artist": "米津玄師",
       "has_synced": false,
       "path": "select/pl_01_MAD_HEAD_LOVE_米津玄師.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "MAD HEAD LOVE",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/localdb_01_MAD_HEAD_LOVE_米津玄師.lrc",
+      "repo_name": "xCIJJ2Rb368"
     }
   ]
 }
